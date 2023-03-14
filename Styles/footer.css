@@ -1,0 +1,48 @@
+
+.footer{
+    background-color: #222E3A;
+}
+.footerDivs{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.footerDivs h3{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #546273;
+
+}
+.footerDivs p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color:aliceblue;
+    margin-bottom: 20px;
+
+}
+.socialMediaImg{
+    margin-bottom: 30px;
+}
+.socialMediaImg img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.copyRight{
+    width: 100%;
+    background-color: #1A2735;
+}
+.copyRight p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #5C6783;
+    padding-top: 25px;
+    margin-top: -10px;
+    padding-bottom: 25px;
+}

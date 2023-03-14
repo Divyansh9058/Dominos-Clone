@@ -1,0 +1,211 @@
+body{margin: 0px;
+ 
+  font-family:Arial, Helvetica, sans-serif;}
+.sk_nav{
+  width: 100%;
+}
+
+.sk_nav{
+  background-color: #0b639c;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  position: fixed;
+}
+
+.sk_nav a{
+  color: white;
+  padding: 2px;
+  font-weight:600;
+  text-decoration: none;
+  line-height: 20px;
+  letter-spacing:-0.5px;
+}
+
+.nav_top_menu{
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding-bottom: 10px;
+}
+
+.bottom_menu{
+   width: 80%;
+   margin: auto;
+   font-size: 13px;
+   text-align: center;
+   align-items: center;
+   color: white;
+   padding-bottom: 10px;
+}
+
+.nav_btn{
+   display: flex;
+}
+.nav_btn button{
+  background-color: #df1635 ;
+  padding: 8px 10px 8px 10px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 10px;
+} 
+
+
+.great_taste{
+  padding-top: 120px;
+}
+.great_taste>img{
+  width: 100%;
+}
+
+details{margin-left: 5px;
+   width: 100%;
+   border: solid black 1px;
+  transition: div 2s;
+  ;}
+
+#pizza_name{
+  text-align: center;
+}
+
+#pizza_display{
+  width: 98%;
+  margin: auto;
+  display: grid;
+  gap:15px;
+  grid-template-columns: repeat(3,1fr);
+}
+
+#pizza_display img{
+  width: 60%;
+}
+
+#pizza_display>div{
+  margin-left: 4px;
+  background-color: #e61a39;
+  color: white;
+  border-radius: 2%;
+  text-align: center;
+  padding: 30px 25px 20px 25px;
+}
+
+#pizza_display button{
+  border: solid #e61a39 1px;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  font-weight: 550;
+  color: #e61a39;
+  font-family:'Times New Roman', Times, serif ;
+  background-color: white;
+}
+
+#pizza_display button:hover{
+  border: solid white 1px;
+  background-color:#e61a39; 
+  color: white;
+  cursor: pointer;
+}
+
+.faq details{font-size: 16px;
+  border: none;
+  padding: 5px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+   }
+
+
+
+.content_details,.faq,.menu_res{
+width: 95%;
+padding-left: 20px;
+}
+
+.content_details,.menu_res p{
+color: #54565B;
+font-size:18px ;
+line-height: 30px;
+}
+
+.menu_res details{
+font-size: 25px;
+padding-bottom: 20px;
+border: none;
+margin-top: 10px;
+}
+
+.menu_res{
+  padding-bottom: 50px;
+}
+.content_details h3{
+color: #006491;
+}
+
+
+.menu_res a{
+word-break: keep-all;
+font-size: 14px;
+flex-wrap: wrap;
+word-spacing: 4px;
+text-align: center;
+text-decoration: none;
+color: black;
+box-shadow: 2px 2px 1px 1px;
+line-height: 40px;
+padding: 6px 8px 6px 8px;
+background-color: bisque;
+}
+
+.sk_nav img{
+  width: 230px;
+}
+
+
+
+
+@media (max-width: 900px) and (min-width: 600px) {
+  #pizza_display{
+    grid-template-columns: repeat(2,1fr);
+  }
+  .great_taste{
+    padding-top: 180px;
+  }
+  .nav_btn button{
+    display:none;
+  }
+  .sk_nav img{
+    display: none;
+  }
+  .nav_top_menu{
+    font-size: 12px;
+  }
+}
+
+
+
+
+@media (max-width: 601px) and (min-width: 100px) {
+  #pizza_display{
+    grid-template-columns: repeat(1,1fr);
+  }
+  .nav_btn button{
+    display:none;
+  }
+  .great_taste{
+    
+  }
+  .sk_nav img{
+    display: none;
+    padding-top: 250px;
+  }
+  .nav_top_menu{
+    font-size: 12px;
+  }
+
+}
+
+

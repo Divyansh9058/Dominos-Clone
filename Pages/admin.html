@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel = "icon" href ="../Images/fab_icon_dom.png">
+    <link rel="stylesheet" href="../Styles/admin.css">
+</head>
+
+<body>
+    <header>
+    <div  id="head">
+       
+<img src="../Images\DOMINI'S LOGO BLUE.png">
+<h1 id="panel">Admin Panel</h1>
+<h1 id="dash">
+    Dashboard
+      </h1> 
+</div>
+<div >
+     <h1 id="admin">Welcome Admin !</h1>   
+    
+  
+</div>
+    </header>
+    <footer>
+        <div id="footer">
+            <div id="fa">
+              <!-- <h3 id="add">Add Product</h3>   -->
+            <button id="addb" >ADD PRODUCTS</button>
+        </div>
+        <div id="fa">
+            <!-- <h3 id="add">Update Product</h3>   -->
+            <button id="addu">UPDATES PRODUCTS</button>
+        </div>
+        <div id="fa">
+            <!-- <h3 id="add">Delete Product</h3>  -->
+            <button id="addd">DELETE PRODUCTS</button>
+        </div>
+        <div id="fa">
+            <!-- <h3 id="add">Delete Product</h3>  -->
+            <button id="user"> SEE USERS</button>
+        </div>
+        </div>
+    </footer>
+       
+</body>
+</html>
+
+  <script> 
+  
+  let added=document.querySelector("#addb");
+    
+    added.addEventListener("click",function(){
+        window.location.href="../Pages/adminpro.html"
+        
+    });
+   let  update1=document.querySelector("#addu")
+    update1.addEventListener("click",function(){
+        window.location.href="../Pages/adminpro.html"
+        });
+
+    let delete1=document.querySelector("#addd");
+    delete1.addEventListener("click",function(){
+        window.location.href="../Pages/adminpro.html"
+        
+
+    }) 
+    let user=document.querySelector("#user");
+    user.addEventListener("click",function(){
+        window.location.href="../Pages/user.html"
+        
+
+    }) 
+
+
+</script>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+    <link rel="stylesheet" href="../Styles/product.css">
+    <link rel = "icon" href ="../Images/fab_icon_dom.png">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
+
+</head>
+
+<body>
+
+    <button onclick="topFunction()" id="MYBtn" title="Go to top">↑</button>
+  
+    <div id="container1">
+        
+        <nav class="nav">
+            <div id="mySide" class="sidenav">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <a href="#" class="dropdown-item">🍕 ORDER HISTORY</a>
+                <a href="#" class="dropdown-item">🏠 HOME</a>
+                <a href="#" class="dropdown-item">📱 Deals & Offers</a>
+                <a href="#" class="dropdown-item">🌶 Menu</a>
+                <a href="#" class="dropdown-item">🎁 Everyday Value Offers</a>
+                <a href="#" class="dropdown-item">📱 Terms & Conditions</a>
+                <a href="#" class="dropdown-item">📱 Feedback</a>
+                <a href="#" class="dropdown-item">🍕 BULK ORDER</a>
+            </div>
+
+            <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+            <img
+            src="../Images/domino's white222.png" alt="">
+
+            <div class="navSecondPart">
+                <div>
+                    <select class="selectNav2">
+                        <option value="Dhanbad">📍 Dhanbad</option>
+                        <option value="New Delhi">📍 New Delhi</option>
+                        <option value="Mumbai">📍 Mumbai</option>
+                        <option value="Pune">📍 Pune</option>
+                        <option value="Bangalore">📍 Bangalore</option>
+                        <option value="Kolkata">📍 Kolkata</option>
+                        <option value="Ranchi">📍 Ranchi</option>
+                        <option value="Chennai">📍 Chennai</option>
+                        <option value="Gujrat">📍 Gujrat</option>
+                        <option value="Patna">📍 Patna</option>
+                        <option value="Assam">📍 Assam</option>
+                        <option value="Hyderabad">📍 Hyderabad</option>
+                        <option value="Puri">📍 Puri</option>
+                        <option value="Sri Nagar">📍 Sri Nagar</option>
+                        <option value="Deoghar">📍 Deoghar</option>
+                    </select>
+                </div>
+                <div id="login-btn">
+                     LOGIN
+                </div>
+            </div>
+
+        </nav>
+
+        <div id="sliding-login">
+
+          <img src="../Images/home_pagelogo.png" alt="">
+          
+          <h2>Login or Signup with your valid mobile no.</h2>
+
+          <form>
+                <input type="text" id="phone" minlength="10" maxlength="10" name="phone" required />
+
+                <input type="submit" value="SUBMIT" id="submit"/>
+
+            </form>
+        </div>
+
+  
+
+        <!-- menu options -->
+        <div class="MainMenuOptions">
+            <div class="AllMenuOptions">
+                <!-- <div><a href="#sides">EVERYDAY VALUE </a>|</div> -->
+                <div><a href="#bestseller">BESTSELLERS </a>|</div>
+                <div><a href="#newlaunches">NEW LAUNCHES </a>|</div>
+                <!-- <div><a href="#sides">FLAVOUR OF EAST </a>|</div> -->
+                <div><a href="#parathapizza">PARATHA PIZZA</a> |</div>
+                <div><a href="#vegpizza">VEG PIZZA</a> |</div>
+                <div><a href="#nonvegpizza">NON-VEG PIZZA </a>|</div>
+                <div><a href="#beverages">BEVERAGES </a>|</div>
+                <div><a href="#pizzamania">PIZZA MANIA </a>|</div>
+                <div><a href="#specialitychicken">SPECIALITY CHICKEN </a>|</div>
+                <div><a href="#sides"> SIDES </a>|</div>
+                <div><a href="#specialitychicken">CHICKEN LOVERS PIZZA </a>|</div>
+                <div><a href="#lunchcombos">LUNCH COMBOS</a>|</div>
+                <div><a href="#mealfortwo">MEAL FOR 2</a> |</div>
+                <div><a href="#mealforfour">MEAL FOR 4 </a>|</div>
+                <div><a href="#dessert">DESSERT </a>|</div>
+                <div><a href="#chefboss">CHEFBOSS</a></div>
+            </div>
+        </div>
+    
+        <!-- --------------------------------------------------------------------------- -->
+     
+        <div id="main-container">
+            <div id="m1"></div>
+            <div id="m2">
+                <div id="imgdiv">
+                    <img src="https://api.dominos.co.in/prod-olo-api/images/flashBanner/Dominos_Howzzat_IPL-2021_Menu.jpg"
+                        alt="">
+                </div>
+                <div id="cartParent">
+                    <div id="carddiv">
+                        <div id="carddivimg">
+                            <img src="https://pizzaonline.dominos.co.in/static/assets/empty_cart.png" alt="">
+                        </div>
+                        <div id="carddivtext">
+                            <h2>YOUR CART IS EMPTY</h1]2>
+                                <h4>Please add some items from the menu.</h4>
+                        </div>
+
+                    </div>
+                </div>
+                <div id="CHECKOUT"><button id="CHECKOUTbtn">CHECKOUT</button></div>
+                <div id="m3">
+                    <div id="carddivchat">
+                        <img src="https://cdn.yellowmessenger.com/iUs6cuumLN451574257378609.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ------------------------------------------------------------------------------- -->
+        <div id="fotterdiv">
+            <div class="footer">
+                <div class="footerInsider">
+                    <div><img src="https://www.dominos.co.in/assets/hello_dominos_20210615.png" alt=""></div>
+                    <div class="footerOptions">
+                        <p>Disclaimer</p>
+                        <p>Privacy Policy</p>
+                        <p>Fag</p>
+                        <p>Terms & Conditions</p>
+                        <p>Feedback</p>
+                    </div>
+                </div>
+                <div class="downloadApp">
+                    <h2>Download App</h2>
+                    <img src="https://pizzaonline.dominos.co.in/static/assets/play_store.png" alt="">
+                    <img src="https://pizzaonline.dominos.co.in/static/assets/app_store.png" alt="">
+                </div>
+            </div>
+            <div class="copyRight">
+                <p>All Rights Reserved. Copyright © Jubilant FoodWorks Ltd.</p>
+            </div>
+        </div>
+    </div>
+    <!-- scrool_up------ -->
+  
+</body>
+<script src="../Scripts/product.js"></script>
+<script src="../Scripts/login.js"></script>
+
+</html>

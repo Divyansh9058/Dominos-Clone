@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel = "icon" href ="../Images/fab_icon_dom.png">
+    <style>
+       
+            body{
+     background-image: url("../Images/wooden-plate-pita-bread-with-sliced-tomato-onion.jpg") ;
+     background-color:lightgreen;
+
+    }  
+     #image{
+              margin-top:-12% ;
+            width:20% ;
+             margin-bottom:-20% ; 
+           } 
+         
+       table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+h1{
+    text-align: center;
+    /* margin-left:40% ; */
+    color: brown;
+    font-size:50px ;
+}
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+table tr:nth-child(even) {
+  background-color: #8caacf;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #0468aa;
+  color: white;
+  text-align: center;
+} 
+
+    </style>
+</head>
+<body>
+    <div id="image">
+    <img src="../Images/DOMINI'S LOGO BLUE.png">
+</div>
+    <h1>Users</h1>
+    <table>
+        <thead>
+<tr>
+<th>Id</th>
+<th>Phone No</th>
+<th>Address</th>
+
+</tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+</body>
+</html>
+<script>
+    fetch ("https://dull-gold-badger-suit.cyclic.app/users")
+    .then((res) => res.json())
+    .then((data) => display(data))
+    .catch((err) =>alert(err))
+    
+    function display(arr) {
+    
+arr.forEach(elem => {
+  
+
+let row=document.createElement("tr");
+let td1=document.createElement("td");
+td1.innerText=elem.id
+let td2 =document.createElement("td");
+td2.innerText=elem.phone
+let td3= document.createElement("td");
+td3.innerText=elem.address
+
+row.append(td1,td2,td3);
+document.querySelector("tbody").append(row);
+});
+}
+    
+</script>

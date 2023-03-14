@@ -1,0 +1,1337 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "category": "bestseller",
+      "product": "Caprese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Caprese_1.jpg",
+      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "bestseller",
+      "product": "Primavera Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Primavera_1.jpg",
+      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "bestseller",
+      "product": "Al Fungi Gourmet Pizza",
+      "image": "https://images.dominos.co.in/AlFunghi_1.jpg",
+      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 4,
+      "category": "bestseller",
+      "product": "Chicken Pepperoni Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Pepperoni_1.jpg",
+      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 849
+        },
+        "Large": {
+          "New Hand Tossed": 1149
+        }
+      }
+    },
+    {
+      "id": 5,
+      "category": "bestseller",
+      "product": "Burrata Pesto Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Burrata_1.jpg",
+      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 999
+        },
+        "Large": {
+          "New Hand Tossed": 1299
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "bestseller",
+      "product": "The 5 Cheese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/5Cheese_1.jpg",
+      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "bestseller",
+      "product": "Paneer Paratha Pizza",
+      "image": "https://images.dominos.co.in/Paneer.jpg",
+      "desc": "An epic fusion of paratha and pizza with melting cheese &amp; soft paneer fillings to satisfy all your indulgent cravings",
+      "size": {
+        "Regular": {
+          "100% Wheat Thin Crust": 209
+        }
+      }
+    },
+    {
+      "id": 8,
+      "category": "bestseller",
+      "product": "Chicken Keema Paratha Pizza",
+      "image": "https://images.dominos.co.in/Keema.jpg",
+      "desc": "Flavourful &amp; meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": {
+        "Regular": {
+          "100% Wheat Thin Crust": 249
+        }
+      }
+    },
+    {
+      "id": 9,
+      "category": "bestseller",
+      "product": "Margherita",
+      "image": "https://images.dominos.co.in/new_margherita_2502.jpg",
+      "desc": "Classic delight with 100% real mozzarella cheese",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 109,
+          "100% Wheat Thin Crust": 154,
+          "Cheese Burst": 204,
+          "Fresh Pan Pizza": 154,
+          "Classic Hand Toast": 109
+        },
+        "Medium": {
+          "New Hand Tossed": 239,
+          "100% Wheat Thin Crust": 304,
+          "Cheese Burst": 358,
+          "Fresh Pan Pizza": 294,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 449,
+          "100% Wheat Thin Crust": null,
+          "Cheese Burst": null,
+          "Fresh Pan Pizza": null,
+          "Classic Hand Toast": null
+        }
+      }
+    }
+  ],
+  "newlaunches": [
+    {
+      "id": 10,
+      "category": "newlaunches",
+      "product": "Caprese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Caprese_1.jpg",
+      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 11,
+      "category": "newlaunches",
+      "product": "Primavera Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Primavera_1.jpg",
+      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 12,
+      "category": "newlaunches",
+      "product": "Al Fungi Gourmet Pizza",
+      "image": "https://images.dominos.co.in/AlFunghi_1.jpg",
+      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "newlaunches",
+      "product": "Chicken Pepperoni Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Pepperoni_1.jpg",
+      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 849
+        },
+        "Large": {
+          "New Hand Tossed": 1149
+        }
+      }
+    },
+    {
+      "id": 14,
+      "category": "newlaunches",
+      "product": "Burrata Pesto Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Burrata_1.jpg",
+      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 999
+        },
+        "Large": {
+          "New Hand Tossed": 1299
+        }
+      }
+    },
+    {
+      "id": 15,
+      "category": "newlaunches",
+      "product": "The 5 Cheese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/5Cheese_1.jpg",
+      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 16,
+      "category": "newlaunches",
+      "product": "Paneer Tikka Stuffed Garlic Bread",
+      "image": "https://images.dominos.co.in/BRD0030.png",
+      "desc": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 17,
+      "category": "newlaunches",
+      "product": "Chicken Pepperoni Stuffed Garlic Bread",
+      "image": "https://images.dominos.co.in/BRD0031.png",
+      "desc": "Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 18,
+      "category": "newlaunches",
+      "product": "Red Velvet Lava Cake",
+      "image": "https://images.dominos.co.in/CAKE03.jpg",
+      "desc": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+      "size": {
+        "price": 139
+      }
+    }
+  ],
+  "parathapizza": [
+    {
+      "id": 19,
+      "category": "parathapizza",
+      "product": "Corn n Cheese Paratha Pizza",
+      "image": "https://images.dominos.co.in/Corn.jpg",
+      "desc": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+      "size": {
+        "Regular": {
+          "100% Wheat Thin Crust": 179
+        }
+      }
+    },
+    {
+      "id": 20,
+      "category": "parathapizza",
+      "product": "Paneer Paratha Pizza",
+      "image": "https://images.dominos.co.in/Paneer.jpg",
+      "desc": "An epic fusion of paratha and pizza with melting cheese &amp; soft paneer fillings to satisfy all your indulgent cravings",
+      "size": {
+        "Regular": {
+          "100% Wheat Thin Crust": 209
+        }
+      }
+    },
+    {
+      "id": 21,
+      "category": "parathapizza",
+      "product": "Chicken Keema Paratha Pizza",
+      "image": "https://images.dominos.co.in/Keema.jpg",
+      "desc": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+      "size": {
+        "Regular": {
+          "100% Wheat Thin Crust": 249
+        }
+      }
+    },
+    {
+      "id": 22,
+      "category": "parathapizza",
+      "product": "Basil Pesto Dip",
+      "image": "https://images.dominos.co.in/DIP0013.jpg",
+      "desc": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
+      "size": {
+        "price": 49
+      }
+    },
+    {
+      "id": 23,
+      "category": "parathapizza",
+      "product": "Harissa Dip",
+      "image": "https://images.dominos.co.in/DIP0014.jpg",
+      "desc": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
+      "size": {
+        "price": 49
+      }
+    }
+  ],
+  "vegpizza": [
+    {
+      "id": 24,
+      "category": "vegpizza",
+      "product": "The 4 Cheese Pizza",
+      "image": "https://images.dominos.co.in/new_margherita_2502.jpg",
+      "desc": "Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese of a normal pizza, including a spicy hit of Ghost Pepper flavoured Cheese",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 349,
+          "100% Wheat Thin Crust": 394,
+          "Fresh Pan Pizza": 394,
+          "Classic Hand Toast": 349
+        },
+        "Medium": {
+          "New Hand Tossed": 639,
+          "100% Wheat Thin Crust": 704,
+          "Cheese Burst": 694,
+          "Fresh Pan Pizza": 294,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 959,
+          "100% Wheat Thin Crust": null,
+          "Cheese Burst": null,
+          "Fresh Pan Pizza": null,
+          "Classic Hand Toast": null
+        }
+      }
+    },
+    {
+      "id": 25,
+      "category": "vegpizza",
+      "product": "Al Fungi Gourmet Pizza",
+      "image": "https://images.dominos.co.in/new_margherita_2502.jpg",
+      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos & cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 26,
+      "category": "vegpizza",
+      "product": "Farmhouse",
+      "image": "https://images.dominos.co.in/farmhouse.png",
+      "desc": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 259,
+          "100% Wheat Thin Crust": 304,
+          "Cheese Burst": 354,
+          "Fresh Pan Pizza": 304,
+          "Classic Hand Toast": 259
+        },
+        "Medium": {
+          "New Hand Tossed": 459,
+          "100% Wheat Thin Crust": 524,
+          "Cheese Burst": 578,
+          "Fresh Pan Pizza": 514,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 689,
+          "100% Wheat Thin Crust": null,
+          "Cheese Burst": null,
+          "Fresh Pan Pizza": null,
+          "Classic Hand Toast": null
+        }
+      }
+    },
+    {
+      "id": 27,
+      "category": "vegpizza",
+      "product": "Moroccan Spice Pasta Pizza - Veg",
+      "image": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
+      "desc": "A pizza loaded with a spicy combination of Harissa sauce and delicious pasta.",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 179,
+          "100% Wheat Thin Crust": 224,
+          "Cheese Burst": 274,
+          "Fresh Pan Pizza": 224,
+          "Classic Hand Toast": 179
+        },
+        "Medium": {
+          "New Hand Tossed": 329,
+          "100% Wheat Thin Crust": 394,
+          "Cheese Burst": 448,
+          "Fresh Pan Pizza": 384,
+          "Classic Hand Toast": null
+        }
+      }
+    }
+  ],
+  "gourmet": [
+    {
+      "id": 28,
+      "category": "gourmet",
+      "product": "Caprese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Caprese_1.jpg",
+      "desc": "The goodness of basil leaves, cherry tomatoes and delightful bocconcini cheese make this the perfect pizza. What’s even better is that you get  a condiment box to create magic to our pizza!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 29,
+      "category": "gourmet",
+      "product": "Primavera Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Primavera_1.jpg",
+      "desc": "For the veggie gourmet lovers. Succulent zucchini, fresh red & yellow bellpeppers and grilled mushrooms on a thin crust base with Italian sauce & bocconcini cheese to relish. And there's a special ingredient box to add to the experience!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 30,
+      "category": "gourmet",
+      "product": "Al Fungi Gourmet Pizza",
+      "image": "https://images.dominos.co.in/AlFunghi_1.jpg",
+      "desc": "The quintessential mushroom pizza on a cheesy mozzarella base, and with a twist of jalapenos &amp; cherry tomatoes to create a new flavour dimension. And add your magic with our condiment box! ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    },
+    {
+      "id": 31,
+      "category": "gourmet",
+      "product": "Chicken Pepperoni Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Pepperoni_1.jpg",
+      "desc": "The classic Italian pizza! Hand tossed thin crust pizza with Italian Sauce, bocconcini cheese and chicken pepperoni. You can add your magic to this evergreen classic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 849
+        },
+        "Large": {
+          "New Hand Tossed": 1149
+        }
+      }
+    },
+    {
+      "id": 32,
+      "category": "gourmet",
+      "product": "Burrata Pesto Gourmet Pizza",
+      "image": "https://images.dominos.co.in/Burrata_1.jpg",
+      "desc": "The one and only! Enjoy an out of the world cheese experience with 4 different types of cheese- Bocconcini, Parmesan, Mozzarella &amp; the creamy Burrata! Don’t forget to add your magic with our special ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 999
+        },
+        "Large": {
+          "New Hand Tossed": 1299
+        }
+      }
+    },
+    {
+      "id": 33,
+      "category": "gourmet",
+      "product": "The 5 Cheese Gourmet Pizza",
+      "image": "https://images.dominos.co.in/5Cheese_1.jpg",
+      "desc": "The Gourmet Pizza for cheese lovers. Loaded with 5 different types of cheese including fresh bocconcini, parmesan, mozzarella, orange cheddar and spicy ghost pepper, this is cheese indulgence. There’s our condiment box to add your magic to this cheesy goodness. ",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 699
+        },
+        "Large": {
+          "New Hand Tossed": 999
+        }
+      }
+    }
+  ],
+  "nonvegpizza": [
+    {
+      "id": 34,
+      "category": "nonvegpizza",
+      "product": "Pepper Barbecue Chicken",
+      "image": "https://images.dominos.co.in/MoroccanSpicePPVG_N.jpg",
+      "desc": "Pepper barbecue chicken for that extra zing",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 249,
+          "100% Wheat Thin Crust": 294,
+          "Cheese Burst": 344,
+          "Fresh Pan Pizza": 294,
+          "Classic Hand Toast": 249
+        },
+        "Medium": {
+          "New Hand Tossed": 449,
+          "100% Wheat Thin Crust": 514,
+          "Cheese Burst": 568,
+          "Fresh Pan Pizza": 504,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 669
+        }
+      }
+    },
+    {
+      "id": 35,
+      "category": "nonvegpizza",
+      "product": "Chicken Dominator",
+      "image": "https://images.dominos.co.in/new_chicken_dominator.jpg",
+      "desc": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 359,
+          "100% Wheat Thin Crust": 404,
+          "Cheese Burst": 454,
+          "Fresh Pan Pizza": 404,
+          "Classic Hand Toast": 359
+        },
+        "Medium": {
+          "New Hand Tossed": 599,
+          "100% Wheat Thin Crust": 664,
+          "Cheese Burst": 718,
+          "Fresh Pan Pizza": 654,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 919,
+          "100% Wheat Thin Crust": null,
+          "Cheese Burst": null,
+          "Fresh Pan Pizza": null,
+          "Classic Hand Toast": null
+        }
+      }
+    },
+    {
+      "id": 36,
+      "category": "nonvegpizza",
+      "product": "Smoked Chicken Gourmet Pizza",
+      "image": "https://images.dominos.co.in/SmokedChk_1.jpg",
+      "desc": "The Italian NV pizza experience. An irresistible combination of our juicy rashers with black olives, red & yellow bell peppers and pesto drizzle! Not to forget our ingredient box!",
+      "size": {
+        "Medium": {
+          "New Hand Tossed": 849
+        },
+        "Large": {
+          "New Hand Tossed": 1149
+        }
+      }
+    },
+    {
+      "id": 37,
+      "category": "nonvegpizza",
+      "product": "Non Veg Supreme",
+      "image": "https://images.dominos.co.in/new_non_veg_supreme.jpg",
+      "desc": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers",
+      "size": {
+        "Regular": {
+          "New Hand Tossed": 359,
+          "100% Wheat Thin Crust": 404,
+          "Cheese Burst": 454,
+          "Fresh Pan Pizza": 404,
+          "Classic Hand Toast": 359
+        },
+        "Medium": {
+          "New Hand Tossed": 599,
+          "100% Wheat Thin Crust": 664,
+          "Cheese Burst": 718,
+          "Fresh Pan Pizza": 654,
+          "Classic Hand Toast": null
+        },
+        "Large": {
+          "New Hand Tossed": 919,
+          "100% Wheat Thin Crust": null,
+          "Cheese Burst": null,
+          "Fresh Pan Pizza": null,
+          "Classic Hand Toast": null
+        }
+      }
+    }
+  ],
+  "beverages": [
+    {
+      "id": 38,
+      "category": "beverages",
+      "product": "Nagpur Orange",
+      "image": "https://images.dominos.co.in/BEV0196-10-oct.jpg",
+      "desc": "Enjoy Oranges from Nagpur with the goodness of Fiber",
+      "size": {
+        "price": 70
+      }
+    },
+    {
+      "id": 39,
+      "category": "beverages",
+      "product": "Pepsi (500ml)",
+      "image": "https://images.dominos.co.in/BEV0119_1.jpg",
+      "desc": "Sparkling and Refreshing Beverage",
+      "size": {
+        "price": 60
+      }
+    },
+    {
+      "id": 40,
+      "category": "beverages",
+      "product": "7Up (500ml)",
+      "image": "https://images.dominos.co.in/7up_new_2202.jpg",
+      "desc": "Refreshing clear drink with a natural lemon flavor",
+      "size": {
+        "price": 60
+      }
+    },
+    {
+      "id": 41,
+      "category": "beverages",
+      "product": "Mirinda (500ml)",
+      "image": "https://images.dominos.co.in/mirinda.jpg",
+      "desc": "Delicious Orange Flavoured beverage",
+      "size": {
+        "price": 60
+      }
+    },
+    {
+      "id": 42,
+      "category": "beverages",
+      "product": "Pepsi Black Can",
+      "image": "https://images.dominos.co.in/pepsi_black.png",
+      "desc": "Maximum Taste Zero Calories",
+      "size": {
+        "price": 60
+      }
+    },
+    {
+      "id": 43,
+      "category": "beverages",
+      "product": "Bailley One (500ml)",
+      "image": "https://images.dominos.co.in/BailleyONE.jpg",
+      "desc": "Packaged Drinking Water",
+      "size": {
+        "price": 20
+      }
+    }
+  ],
+  "specialitychicken": [
+    {
+      "id": 44,
+      "category": "specialitychicken",
+      "product": "Roasted Chicken Wings Peri-Peri",
+      "image": "https://images.dominos.co.in/Roasted-chicken.png",
+      "desc": "Crisp, roasted chicken wings in classic hot sauce and peri-peri flavour",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 45,
+      "category": "specialitychicken",
+      "product": "Roasted Chicken Wings Classic Hot Sauce",
+      "image": "https://images.dominos.co.in/Roasted-chicken.png",
+      "desc": "Crisp, Roasted Chicken Wings available in Classic Hot Sauce",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 46,
+      "category": "specialitychicken",
+      "product": "Chicken Meatballs Peri-Peri Seasoning",
+      "image": "https://images.dominos.co.in/Chicken-Meat-balls.png",
+      "desc": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri seasoning",
+      "size": {
+        "price": 149
+      }
+    },
+    {
+      "id": 47,
+      "category": "specialitychicken",
+      "product": "Boneless Chicken Wings Peri-Peri",
+      "image": "https://images.dominos.co.in/Boneless-Chicken-wings.png",
+      "desc": "Boneless Delight! Baked to Golden Perfection with Peri Peri Sauce",
+      "size": {
+        "price": 179
+      }
+    },
+    {
+      "id": 48,
+      "category": "specialitychicken",
+      "product": "Chicken Meatballs Peri-Peri Sauce",
+      "image": "https://images.dominos.co.in/chicken_meatballs_peri_peri_sauce.jpg",
+      "desc": "Tender, Juicy, Melt in Mouth Chicken Meatballs in Peri Peri Sauce",
+      "size": {
+        "price": 149
+      }
+    }
+  ],
+  "sides": [
+    {
+      "id": 49,
+      "catagory": "sides",
+      "product": "Garlic Breadsticks",
+      "image": "https://images.dominos.co.in/Garlic_bread.png",
+      "desc": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+      "size": {
+        "price": 109
+      }
+    },
+    {
+      "id": 50,
+      "catagory": "sides",
+      "product": "Classic Stuffed Garlic Bread",
+      "image": "https://images.dominos.co.in/Stuffed_garlic_Bread.png",
+      "desc": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
+      "size": {
+        "price": 159
+      }
+    },
+    {
+      "id": 51,
+      "catagory": "sides",
+      "product": "Paneer Tikka Stuffed Garlic Bread",
+      "image": "https://images.dominos.co.in/BRD0030.png",
+      "desc": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 52,
+      "catagory": "sides",
+      "product": "Basil Pesto Dip",
+      "image": "https://images.dominos.co.in/DIP0013.jpg",
+      "desc": "Your perfect pizza partner! Savour your pizza slices with this new rich, herby & salty dip with the goodness",
+      "size": {
+        "price": 49
+      }
+    },
+    {
+      "id": 53,
+      "catagory": "sides",
+      "product": "Harissa Dip",
+      "image": "https://images.dominos.co.in/DIP0014.jpg",
+      "desc": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza",
+      "size": {
+        "price": 49
+      }
+    },
+    {
+      "id": 54,
+      "catagory": "sides",
+      "product": "Chicken Pepperoni Stuffed Garlic Bread",
+      "image": "https://images.dominos.co.in/BRD0031.png",
+      "desc": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic...",
+      "size": {
+        "price": 169
+      }
+    },
+    {
+      "id": 55,
+      "catagory": "sides",
+      "product": "Tomato Ketchup",
+      "image": "https://images.dominos.co.in/SACHET.JPG",
+      "desc": "Goodness of Tomato Ketchup in mini sachets",
+      "size": {
+        "price": 1
+      }
+    },
+    {
+      "id": 56,
+      "catagory": "sides",
+      "product": "Cheesy Jalapeno Dip",
+      "image": "https://images.dominos.co.in/new_jalapeno.png",
+      "desc": "A spicy, tangy flavored cheese dip is a an absolute delight with your favourite Garlic Breadsticks & Stuffed",
+      "size": {
+        "price": 30
+      }
+    },
+    {
+      "id": 57,
+      "catagory": "sides",
+      "product": "Cheesy Dip",
+      "image": "https://images.dominos.co.in/new_jalapeno.png",
+      "desc": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
+      "size": {
+        "price": 30
+      }
+    },
+    {
+      "id": 58,
+      "catagory": "sides",
+      "product": "Tikka Masala Pasta Veg",
+      "image": "https://images.dominos.co.in/PaneerTikkaMasala_N.jpg",
+      "desc": "Instant Fusilli Pasta, Spicy Red dressing, Onion, Paneer Tikka, Parsley sprinkle",
+      "size": {
+        "price": 139
+      }
+    },
+    {
+      "id": 59,
+      "catagory": "sides",
+      "product": "Creamy Tomato Pasta Non Veg",
+      "image": "https://images.dominos.co.in/CreamyTomatoNV_N.jpg",
+      "desc": "Instant Fusilli Pasta, Creamy Culinary Dressing, Onion, Olives, BBQ Pepper Chicken, Parsley sprinkle",
+      "size": {
+        "price": 149
+      }
+    },
+    {
+      "id": 60,
+      "catagory": "sides",
+      "product": "Cheesy Jalapeno Pasta Non Veg",
+      "image": "https://images.dominos.co.in/jalapenoPastaNV_N.jpg",
+      "desc": "Instant Fusilli Pasta, Cheesy Jalapeno Sauce, Onion, Jalapeno, BBQ Pepper Chicken, Parsley",
+      "size": {
+        "price": 149
+      }
+    },
+    {
+      "id": 61,
+      "catagory": "sides",
+      "product": "Taco Mexicana Veg",
+      "image": "https://images.dominos.co.in/TacoMexicanaVeg.jpg",
+      "desc": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
+      "size": {
+        "price": 179
+      }
+    },
+    {
+      "id": 62,
+      "catagory": "sides",
+      "product": "ChefBoss Oregano (50g)",
+      "image": "https://images.dominos.co.in/Oregano-4826.png",
+      "desc": "Your favourite oregano seasoning now in a bottle",
+      "size": {
+        "price": 110
+      }
+    },
+    {
+      "id": 63,
+      "catagory": "sides",
+      "product": "ChefBoss Chilli Flakes (45g)",
+      "image": "https://images.dominos.co.in/Chilli-4827.png",
+      "desc": "Fiery chilli flakes topping in a bottle",
+      "size": {
+        "price": 85
+      }
+    }
+  ],
+  "pizzamania": [
+    {
+      "id": 64,
+      "category": "pizzamania",
+      "product": "Non Veg Loaded",
+      "image": "https://images.dominos.co.in/pizza_mania_non-veg_loaded.png",
+      "desc": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust",
+      "size": {
+        "Regular": {
+          "Fresh Pan Pizza": 169
+        }
+      }
+    },
+    {
+      "id": 65,
+      "category": "pizzamania",
+      "product": "Veg Loaded",
+      "image": "https://images.dominos.co.in/pizza_mania_veg_loaded.png",
+      "desc": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+      "size": {
+        "Regular": {
+          "Fresh Pan Pizza": 159
+        }
+      }
+    },
+    {
+      "id": 66,
+      "category": "pizzamania",
+      "product": "Cheesy",
+      "image": "https://images.dominos.co.in/pizza_mania_cheesy.png",
+      "desc": "Cheese lovers paradise, loaded with mozzarella, cheddar & gouda cheese",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 109,
+          "Fresh Pan Pizza": 154
+        }
+      }
+    },
+    {
+      "id": 67,
+      "category": "pizzamania",
+      "product": "Chicken Sausage",
+      "image": "https://images.dominos.co.in/pizza_mania_chicken_sausage.png",
+      "desc": "American classic! Spicy, herbed chicken sausage on pizza",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 109,
+          "Fresh Pan Pizza": 154
+        }
+      }
+    },
+    {
+      "id": 68,
+      "category": "pizzamania",
+      "product": "Capsicum",
+      "image": "https://images.dominos.co.in/pizza_mania_capsicum.png",
+      "desc": "Fresh & crisp capsicum for the perfect crunch in pizza",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 89,
+          "Fresh Pan Pizza": 134
+        }
+      }
+    },
+    {
+      "id": 69,
+      "category": "pizzamania",
+      "product": "Paneer & Onion",
+      "image": "https://images.dominos.co.in/pizza_mania_paneer_onion.png",
+      "desc": "Creamy Paneer & Onion",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 149,
+          "Fresh Pan Pizza": 164
+        }
+      }
+    },
+    {
+      "id": 70,
+      "category": "pizzamania",
+      "product": "Pepper Barbecue Chicken",
+      "image": "https://images.dominos.co.in/pizza_mania_pepper_barbeque_chicken.png",
+      "desc": "Pepper barbecue chicken for that extra zing",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 119,
+          "Fresh Pan Pizza": 164
+        }
+      }
+    },
+    {
+      "id": 71,
+      "category": "pizzamania",
+      "product": "Onion",
+      "image": "https://images.dominos.co.in/pizza_mania_onion.png",
+      "desc": "Crunchy onion on a cheesy base. The pizza mania classic",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 69,
+          "Fresh Pan Pizza": 114
+        }
+      }
+    },
+    {
+      "id": 72,
+      "category": "pizzamania",
+      "product": "Tomato",
+      "image": "https://images.dominos.co.in/new_pizza_mania_tomato.jpg",
+      "desc": "Juicy tomato in a flavourful combination with cheese & tangy sauce",
+      "size": {
+        "Regular": {
+          "Classic Hand Tossed": 59,
+          "Fresh Pan Pizza": 104
+        }
+      }
+    }
+  ],
+  "lunchcombos": [
+    {
+      "id": 73,
+      "category": "lunchcombos",
+      "product": "Tomato Lunch Combo",
+      "image": "https://images.dominos.co.in/CMB1281-COM10_1.jpg",
+      "desc": "Value Meal for 1: Tomato + Pepsi PET",
+      "size": {
+        "price": 99
+      }
+    },
+    {
+      "id": 74,
+      "category": "lunchcombos",
+      "product": "Paneer Special Lunch Combo",
+      "image": "https://images.dominos.co.in/CMB1281-COM04_1.jpg",
+      "desc": "Value Meal for 1: Paneer Onion Pizza Mania + Pepsi PET",
+      "size": {
+        "price": 149
+      }
+    },
+    {
+      "id": 75,
+      "category": "lunchcombos",
+      "product": "Classic Non Veg Lunch Combo",
+      "image": "https://images.dominos.co.in/CMB1281-COM07_1.jpg",
+      "desc": "Value Meal for 1: Pepper Barbecue Chicken Pizza Mania + Pepsi PETf",
+      "size": {
+        "price": 149
+      }
+    },
+    {
+      "id": 76,
+      "category": "lunchcombos",
+      "product": "Loaded Veg Lunch Combo",
+      "image": "https://images.dominos.co.in/DIP0013.jpg",
+      "desc": "Value Meal for 1: Loaded Veg Pizza Mania + Pepsi PET",
+      "size": {
+        "price": 199
+      }
+    },
+    {
+      "id": 77,
+      "category": "lunchcombos",
+      "product": "Loaded Non Veg Lunch combo",
+      "image": "https://images.dominos.co.in/DIP0014.jpg",
+      "desc": "Value Meal for 1: Loaded Non Veg Pizza Mania + Pepsi PET",
+      "size": {
+        "price": 199
+      }
+    },
+    {
+      "id": 78,
+      "category": "lunchcombos",
+      "product": "Tomato Garlic Bread Lunch Combo",
+      "image": "https://images.dominos.co.in/BRD0031.png",
+      "desc": "Tomato Pizza Mania + Garlic Bread + Pepsi",
+      "size": {
+        "price": 199
+      }
+    }
+  ],
+  "mealfortwo": [
+    {
+      "id": 79,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Moroccan Pasta Pizza & Achari Do Pyaza",
+      "image": "https://images.dominos.co.in/CMB1391.jpg",
+      "desc": "Regular Moroccan Pasta Pizza Veg + Regular Achari do Pyaza + Garlic Bread + Pepsi",
+      "size": {
+        "price": 339
+      }
+    },
+    {
+      "id": 80,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Margherita & Farmhouse",
+      "image": "https://images.dominos.co.in/CMB1375.jpg",
+      "desc": "Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi",
+      "size": {
+        "price": 429
+      }
+    },
+    {
+      "id": 81,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Margherita & Peppy Paneer",
+      "image": "https://images.dominos.co.in/CMB1376.jpg",
+      "desc": "Regular Margherita + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "size": {
+        "price": 429
+      }
+    },
+    {
+      "id": 82,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Farmhouse & Veg Extravaganza",
+      "image": "https://images.dominos.co.in/CMB1382.jpg",
+      "desc": "Regular Farmhouse + Regular Veg Extravaganza + Garlic Bread + Pepsi",
+      "size": {
+        "price": 579
+      }
+    },
+    {
+      "id": 83,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Farmhouse & Peppy Paneer",
+      "image": "https://images.dominos.co.in/CMB1380.jpg",
+      "desc": "Regular Farmhouse + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "size": {
+        "price": 549
+      }
+    },
+    {
+      "id": 84,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Veg Extravaganza & Peppy Paneer",
+      "image": "https://images.dominos.co.in/CMB1381.jpg",
+      "desc": "Regular Veg Extravaganza + Regular Peppy Paneer + Garlic Bread + Pepsi",
+      "size": {
+        "price": 579
+      }
+    },
+    {
+      "id": 85,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Veg Extravaganza & Indi Tandoori Paneer",
+      "image": "https://images.dominos.co.in/CMB1383.jpg",
+      "desc": "Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Garlic Bread + Pepsi",
+      "size": {
+        "price": 609
+      }
+    },
+    {
+      "id": 86,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Margherita & Farmhouse",
+      "image": "https://images.dominos.co.in/CMB1389.jpg",
+      "desc": "Regular Margherita + Regular Farmhouse + Garlic Bread + Mixed Fruit B Natural Juice",
+      "size": {
+        "price": 449
+      }
+    },
+    {
+      "id": 87,
+      "category": "mealfortwo",
+      "product": "Meal for 2: Chicken Dominator & Chicken Golden Delight",
+      "image": "https://images.dominos.co.in/CMB1385.jpg",
+      "desc": "Regular Pepper BBQ Chicken + Regular Spiced Double Chicken + Garlic Bread + Pepsi",
+      "size": {
+        "price": 579
+      }
+    }
+  ],
+  "mealforfour": [
+    {
+      "id": 88,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Non Veg Extravaganza & Chicken Dominator",
+      "image": "https://images.dominos.co.in/CMB1411.jpg",
+      "desc": "Medium Non Veg Extravaganza + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 919
+      }
+    },
+    {
+      "id": 89,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Margherita & Peppy Paneer",
+      "image": "https://images.dominos.co.in/CMB1400.jpg",
+      "desc": "Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 739
+      }
+    },
+    {
+      "id": 90,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Corn n Cheese & Farmhouse",
+      "image": "https://images.dominos.co.in/CMB1401.jpg",
+      "desc": "Medium Corn n Cheese + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 849
+      }
+    },
+    {
+      "id": 91,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Peppy Paneer & Farmhouse",
+      "image": "https://images.dominos.co.in/CMB1402.jpg",
+      "desc": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 919
+      }
+    },
+    {
+      "id": 92,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Margherita & Peppy Paneer",
+      "image": "https://images.dominos.co.in/CMB1403.jpg",
+      "desc": "Medium Feast Veg Extravanga + Medium Indi Tandoori Paneer + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 1059
+      }
+    },
+    {
+      "id": 93,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Corn n Cheese & Farmhouser",
+      "image": "https://images.dominos.co.in/CMB1410.jpg",
+      "desc": "Medium Feast Veg Extravanga + Medium Farmhouse + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 989
+      }
+    },
+    {
+      "id": 94,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Peppy Paneer & Veg Paradise",
+      "image": "https://images.dominos.co.in/CMB1409.jpg",
+      "desc": "Medium Veg Paradise + Medium Peppy Paneer + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 919
+      }
+    },
+    {
+      "id": 95,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Farmhouse & Veg Paradise",
+      "image": "https://images.dominos.co.in/CMB1408.jpg",
+      "desc": "Medium Farmhouse + Medium Veg Paradise + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 919
+      }
+    },
+    {
+      "id": 96,
+      "category": "mealfortwo",
+      "product": "Meal for 4: Pepper BBQ Chicken & Chicken Dominator",
+      "image": "https://images.dominos.co.in/CMB1405.jpg",
+      "desc": "Medium Pepper BBQ Chicken + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+      "size": {
+        "price": 999
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": 97,
+      "category": "dessert",
+      "product": "Red Velvet Lava Cake",
+      "image": "https://images.dominos.co.in/CAKE03.jpg",
+      "desc": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+      "size": {
+        "price": 139
+      }
+    },
+    {
+      "id": 98,
+      "category": "dessert",
+      "product": "Choco Lava Cake",
+      "image": "https://images.dominos.co.in/Choco_Lava.png",
+      "desc": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
+      "size": {
+        "price": 109
+      }
+    },
+    {
+      "id": 99,
+      "category": "dessert",
+      "product": "Butterscotch Mousse Cake",
+      "image": "https://images.dominos.co.in/Butterscotch.png",
+      "desc": "Sweet temptation! Butterscotch flavored mousse",
+      "size": {
+        "price": 109
+      }
+    },
+    {
+      "id": 100,
+      "category": "dessert",
+      "product": "Brownie Fantasy",
+      "image": "https://images.dominos.co.in/Brownie_Fantasy.png",
+      "desc": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce",
+      "size": {
+        "price": 79
+      }
+    }
+  ],
+  "chefboss": [
+    {
+      "id": 101,
+      "category": "chefboss",
+      "product": "ChefBoss Oregano (50g)",
+      "image": "https://images.dominos.co.in/Oregano-4826.png",
+      "desc": "Your favourite oregano seasoning now in a bottle",
+      "size": {
+        "price": 110
+      }
+    },
+    {
+      "id": 102,
+      "category": "chefboss",
+      "product": "ChefBoss Chilli Flakes (45g)",
+      "image": "https://images.dominos.co.in/Chilli-4827.png",
+      "desc": "Fiery chilli flakes topping in a bottle",
+      "size": {
+        "price": 85
+      }
+    }
+  ],
+  "divyansh": [
+    {
+      "id": 1,
+      "phone": "1234567890",
+      "address": null
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "phone": 1234567890,
+      "orders": [
+        {
+          "totalbill": 999,
+          "payment-method": "CARD",
+          "cardno": "0000",
+          "date": "21/01/2023",
+          "address": ""
+        }
+      ]
+    }
+  ]
+}

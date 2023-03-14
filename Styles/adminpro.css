@@ -1,0 +1,201 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* background-color: aqua; */
+        }
+        body{
+            background-image: url("../Images/wooden-plate-pita-bread-with-sliced-tomato-onion.jpg") ;
+            background-color: wheat;
+       
+           }
+           #image{
+            margin-top:-10% ;
+            width:20% ;
+            margin-bottom:-13% ;
+           }
+           h1{
+           color:brown; 
+           font-size:40px ;
+           }
+           #filter{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            width: 10%;
+           }
+           #product{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #img{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desc{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desc1{
+            margin-left:0.2% ;
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desc2{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left:0.01% ;
+           }
+           #desc3{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left: 1.05%;
+           }
+           #desc4{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left: 1.3%;
+           }
+           #desca{
+          
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #descb{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #descc{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           
+           }
+           #btn{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 15px; 
+           background-color:yellowgreen ;
+           }
+           #filter1{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            width: 10%;
+           }
+           #productt{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #imgg{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #descs{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desc11{
+            margin-left:0.2% ;
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desc22{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left:0.01% ;
+           }
+           #desc33{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left: 1.05%;
+           }
+           #desc44{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            margin-left: 1.3%;
+           }
+           #descaa{
+          
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #descbb{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           }
+           #desccc{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+           
+           }
+           #update{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 15px; 
+           background-color:yellowgreen ;
+           }
+           #id1{
+            padding:0.2%;
+            background-color:linen;
+             font-size: 20px; 
+           }
+           #id2{
+            padding:0.2%;
+            background-color:linen;
+             font-size: 20px; 
+           }
+           #del{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 15px; 
+           background-color:yellowgreen ;
+           }
+           #filter2{
+            padding:0.2%;
+            background-color:linen;
+            font-size: 20px;
+            width: 10%;
+           }
+           #see{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 17px; 
+           background-color:yellowgreen ;
+           }
+           #see2{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 17px; 
+           background-color:yellowgreen ;
+           }
+           #see1{
+            padding: 0.5%;
+            width:10% ;
+            background-color:linen;
+            font-size: 17px; 
+           background-color:yellowgreen ;
+           }
